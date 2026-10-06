@@ -1,30 +1,38 @@
-# 💻 Estudos em C
+# Estudos em C
 
-Repositório dedicado aos meus estudos em **linguagem C**, reunindo exercícios, práticas e projetos desenvolvidos ao longo do aprendizado.
+Repositório criado para registrar minha evolução nos estudos da linguagem **C** durante a graduação em Ciência da Computação.
 
-O objetivo é aprimorar a **lógica de programação**, consolidar os fundamentos da linguagem e desenvolver uma base sólida para a criação de aplicações utilizando C.
+Aqui estão exercícios e práticas organizados de acordo com a evolução dos conteúdos estudados.
 
-## 📚 Conteúdos estudados
+## 📚 Conteúdos
 
-* Variáveis, tipos de dados e operadores
-* Entrada e saída de dados
-* Estruturas condicionais
-* Estruturas de repetição
-* Vetores, matrizes e strings
-* Funções e modularização
-* `struct` e ponteiros
-* Alocação dinâmica de memória
-* Estruturas de dados
-* Algoritmos de busca e ordenação
+| Pasta | Conteúdo |
+|---|---|
+| `01 - LogicaBasica` | Lógica de programação e exercícios iniciais |
+| `02 - EstruturasBasicas` | Estruturas condicionais e de repetição |
+| `03 - Funções` | Criação e utilização de funções |
+| `04 - Recursividade` | Funções recursivas |
+| `05 - Structs` | Estruturas e organização de dados |
+| `06 - Ponteiros` | Ponteiros e manipulação de memória |
+| `07 - Alocação` | Alocação dinâmica de memória |
+| `08 - Busca` | Algoritmos de busca |
+| `09 - Ordenação` | Algoritmos de ordenação |
+| `10 - EstruturaDados` | Estruturas de dados |
+| `11 - Bibliotecas` | Utilização e prática com bibliotecas |
 
 ## 🎯 Objetivo
 
-Utilizar este repositório para acompanhar minha evolução no aprendizado de C, colocando em prática os conceitos estudados por meio de exercícios e projetos.
+Utilizar este repositório para acompanhar minha evolução em **C**, praticando programação, estruturas de dados, algoritmos e gerenciamento de memória.
 
-## 📁 Conteúdo
+## 🚀 Evolução
 
-O repositório reúne diferentes exercícios e práticas desenvolvidos durante meus estudos, desde os fundamentos da linguagem até **estruturas de dados e algoritmos**.
+As pastas estão organizadas em uma sequência de estudos, começando pelos conceitos fundamentais e avançando gradualmente para conteúdos mais complexos.
 
----
+Este repositório faz parte do meu processo de aprendizado e está em constante atualização.
 
-📌 **Repositório voltado para estudo, prática e evolução na linguagem C.**
+## 🛠️ Tecnologias
+
+- C
+- Visual Studio Code
+- Git
+- GitHub
